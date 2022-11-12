@@ -7,3 +7,6 @@ Create a GitHub repository called “st2195_assignment_ 4”.
 Instructions are given in the form of comments in the code.
 
 3. Update "foo.R" by committing and pushing the revisions.
+
+![image](https://user-images.githubusercontent.com/113455029/201471647-bd85206f-0a10-4de0-b8db-51722ba16111.png)
+
